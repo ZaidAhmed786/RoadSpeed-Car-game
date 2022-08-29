@@ -18,7 +18,7 @@ const keyUp = (e) =>{
 
 const gamePlay = ()=>{
     console.log('hey game start now');
-    let car = document.querySelector('.car')
+    let car = document.querySelector('.car');
     let road = gameArea.getBoundingClientRect();
     if(player.start)
     {
