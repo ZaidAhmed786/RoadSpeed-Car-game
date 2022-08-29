@@ -58,7 +58,7 @@ const start = () =>{
     player.x = car.offsetLeft;
     player.y = car.offsetTop;
 
-    console.log(car.offsetLeft)
+    console.log(car.offsetLeft);
 
 }
 
